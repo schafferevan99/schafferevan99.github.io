@@ -10,11 +10,11 @@
 
 <details>
 
-<summary>
+<summary>&#9733;
 
 <img src="modlist_title.gif" alt="View mod list" class="title-logo">
 
-</summary>
+&#9733;</summary>
 
 - [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments/files/all?page=1&pageSize=20&version=1.21.1)
 - [Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)
@@ -180,6 +180,7 @@ h1 {
 summary {
   text-align: center;
   font-size:1.5rem;
+  display: block;
 }
 
 details {
