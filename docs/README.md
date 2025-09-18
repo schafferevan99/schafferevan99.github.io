@@ -9,31 +9,22 @@
 
   <summary><img src="modlist_title.gif" alt="View mod list" class="title-logo"></summary>
 
+<div markdown=1>
 
-- [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments/files/all?page=1&pageSize=20&version=1.21.1)
-  
-- [Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)
-  
-- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts/files/all?page=1&pageSize=20&version=1.21.1)
+- [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments/files/all?page=1&pageSize=20&version=1.21.1)<br>
+- [Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)<br>
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts/files/all?page=1&pageSize=20&version=1.21.1)<br>
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create/files/all?page=1&pageSize=20&version=1.21.1)<br>
+- [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/all?page=1&pageSize=20&version=1.21.1)<br>
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/all?page=1&pageSize=20&version=1.21.1)<br>
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?page=1&pageSize=20&version=1.21.1)<br>
+- [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)<br>
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/all?page=1&pageSize=20&version=1.21.1)<br>
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)<br>
+- [Xaeros Mini Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)<br>
+- [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)<br>
 
-- [Create](https://www.curseforge.com/minecraft/mc-mods/create/files/all?page=1&pageSize=20&version=1.21.1)
-
-- [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/all?page=1&pageSize=20&version=1.21.1)
-
-- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/all?page=1&pageSize=20&version=1.21.1)
-
-- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?page=1&pageSize=20&version=1.21.1)
-
-- [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)
-
-- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/all?page=1&pageSize=20&version=1.21.1)
-
-- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
-
-- [Xaeros Mini Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-
-- [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
-
+</div>
 
 </details>
 
@@ -187,6 +178,7 @@ h1 {
 summary {
   text-align: center;
   font-size:1.5rem;
+  display:block;
 }
 
 details {
