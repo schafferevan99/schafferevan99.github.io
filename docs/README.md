@@ -4,53 +4,25 @@
 
 <button id="theme-toggle">☀️ Light Mode</button>
 
-<div style="font-weight:heavy; font-size:1.5rem; text-align:center; color:Pink;">
-
 <details>
-<summary><span style="text-align:center; color:pink;">Mod list</span></summary>
+<summary>Mod list</summary>
 
 <span style="font-weight:light; font-size:.75rem; color:grey;">I have not confirmed each mod is working, let me know if you notice any that are broken</span>
-<br>
 
 [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments/files/all?page=1&pageSize=20&version=1.21.1)
-<br>
-
 [Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)
-<br>
-
 [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts/files/all?page=1&pageSize=20&version=1.21.1)
-<br>
-
 [Create](https://www.curseforge.com/minecraft/mc-mods/create/files/all?page=1&pageSize=20&version=1.21.1)
-<br>
-
 [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/all?page=1&pageSize=20&version=1.21.1)
-<br>
-
 [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/all?page=1&pageSize=20&version=1.21.1)
-<br>
-
 [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?page=1&pageSize=20&version=1.21.1)
-<br>
-
 [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)
-<br>
-
 [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/all?page=1&pageSize=20&version=1.21.1)
-<br>
-
 [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
-<br>
-
 [Xaeros Mini Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-<br>
-
 [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
-<br>
 
 </details>
-
-</div>
 
 ## &#9733; Downloads & Setup
 
@@ -186,6 +158,17 @@ h1 {
 
 h1 {
   border-bottom: none !important;
+}
+
+summary {
+  text-align: center;
+  color:pink;
+  font-size:1.5rem;
+}
+
+details {
+  text-align: center;
+  color:pink;
 }
 
 </style>
