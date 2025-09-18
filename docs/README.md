@@ -98,7 +98,7 @@ Lets fix that:
 4. It will take a long time (3+ minutes) to launch, especially the first time
 5. Some additional windows will likely open, just minimize those and close after playing
 
-<h6> v1.2 </h6>
+<h6> v1.69 </h6>
 
 
 <style>
