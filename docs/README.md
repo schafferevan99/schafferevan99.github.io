@@ -4,11 +4,14 @@
 
 <button id="theme-toggle">☀️ Light Mode</button>
 
-<h3 style="text-align:center; color:Pink;">
+<div style="font-weight:bold; font-size:1.5rem; text-align:center; color:Pink;">
 
 <details>
 
-<summary><span style="text-align:center; color:pink;">Mod list</span></summary>
+<summary>
+<div class="gif-header" style="text-align:center; color:pink;">
+</div>
+</summary>
 
 <span style="font-weight:light; font-size:.75rem; color:grey;">I have not confirmed each mod is working, let me know if you notice any that are broken</span>
 <br>
@@ -28,7 +31,7 @@
 
 </details>
 
-</h3>
+</div>
 
 ## &#9733; Downloads & Setup
 
@@ -105,6 +108,13 @@ body {
   transition: background-color 0.4s, color 0.4s;
   padding: 1rem;
 }
+
+.gif-header {
+            width: 400px;
+            background-image: url('https://prnt.sc/LGRduxPX5wkY');
+            background-size: cover;
+            text-align: center;
+        }
 
 /* Button styles */
 #theme-toggle {
