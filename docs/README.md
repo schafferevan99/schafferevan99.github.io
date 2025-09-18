@@ -1,4 +1,4 @@
-<h1> <span class="rainbow-text" style="color:MediumSeaGreen; text-align: center; ">Unreal Dub Engine</span></h1>
+<h1> <span class="rainbow-text" style="color:MediumSeaGreen; text-align:center; font-size:3rem;">Unreal Dub Engine</span></h1>
 
 <h1> Minecraft server guide | <span class="rainbow-text"> play.unrealdub.club</span></h1>
 
