@@ -109,6 +109,9 @@ body {
   height: 80px;            /
   background: transparent !important;
   display: inline-block;
+  outline: none !important;
+  border: none !important;
+  cursor: pointer;
 }
 
 /* Button styles */
