@@ -1,10 +1,11 @@
 <h1> <span class="rainbow-text" style="color:MediumSeaGreen; text-align: center; ">Unreal Dub Engine</span>
-<h1> Minecraft server guide | <span class="rainbow-text"> play.unrealdub.club </span>
 
+<h1> Minecraft server guide | <span class="rainbow-text"> play.unrealdub.club </span>
 
 ## &#9733; Downloads & Setup
 
 ### <span style="color:pink">Java 21</span>
+
 1. [Download](https://adoptium.net/download?link=https%3A%2F%2Fgithub.com%2Fadoptium%2Ftemurin21-binaries%2Freleases%2Fdownload%2Fjdk-21.0.8%252B9%2FOpenJDK21U-jdk_x64_windows_hotspot_21.0.8_9.msi&vendor=Adoptium)
 2. Run & complete the downloaded `OpenJSK21U…` .msi file
 3. Complete install using default options
@@ -14,10 +15,12 @@
    - openjdk version should be `21.0.8` (or at least `21.x.x`)
 
 ### <span style="color:orange">CurseForge</span>
+
 1. [Download](https://download.overwolf.com/install/Download?ExtensionId=cfiahnpaolfnlgaihhmobmnjdafknjnjdpdabpcm&utm_term=eyJkb21haW4iOiJjZi13ZWIifQ%3D%3D)
 2. Run & complete the downloaded installer
 
 ### <span style="color:olivedrab">Custom modpack</span>
+
 1. Open the #minecraft channel in the Discord server
 2. Click the **Download modpack** link in the channel header
 3. Open CurseForge
@@ -26,17 +29,16 @@
 6. Select the downloaded .zip file
 
 
-## &#9733; Recommended | <span style="color:MediumSeaGreen">Restore minecraft settings </span>
+## &#9733; Recommended | <span style="color:MediumSeaGreen">Restore minecraft settings</span>
+
 Installing a modpack creates a new minecraft folder, which means your settings will be reset to default*. This includes video settings, keybinds, and probably some other shi
 
 Lets fix that:
 
 1. Open your **existing minecraft folder**
-
 > - Open File Explorer
 > - In the navigation bar, type `%appdata%` and hit enter
 > - Open .minecraft
-
 2. Find **options.txt**, right click, **copy** (NOT cut!)
 3. Open <span style="color:orange">CurseForge</span>
 4. Right click the modpack under **My Modpacks**
@@ -55,6 +57,7 @@ Lets fix that:
 <br>
 
 # <span style="color:Pink; font-weight: bold;">Launching the game</span>
+
 ---
 
 1. In <span style="color:orange">CurseForge</span>, hover over the modpack and click **Play**
@@ -62,8 +65,6 @@ Lets fix that:
 3. Play! If prompted, check the *"I understand..."* box and continue
 4. It will take a long time (3+ minutes) to launch, especially the first time
 5. Some additional windows will likely open, just minimize those and close after playing
-
-
 
 <style>
 .rainbow-text {
