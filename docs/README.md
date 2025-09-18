@@ -9,7 +9,13 @@
 <button id="theme-toggle">☀️ Light Mode</button>
 
 <details>
-<summary><img src="modlist_title.gif" alt="View mod list" class="title-logo"></summary>
+
+<summary>
+
+<img src="modlist_title.gif" alt="View mod list" class="title-logo">
+
+</summary>
+
 I have not confirmed each mod is working, let me know if you notice any that are broken
 
 
