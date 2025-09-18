@@ -2,6 +2,8 @@
 
 <h1> Minecraft server guide | <span class="rainbow-text"> play.unrealdub.club</span></h1>
 
+<button id="theme-toggle">🌙 Dark Mode</button>
+
 ## &#9733; Downloads & Setup
 
 ### <span style="color:pink">Java 21</span>
@@ -66,10 +68,36 @@ Lets fix that:
 4. It will take a long time (3+ minutes) to launch, especially the first time
 5. Some additional windows will likely open, just minimize those and close after playing
 
-<h6> v1.1 </h6>
+<h6> v1.2 </h6>
 
 
 <style>
+/* Button styles */
+#theme-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  background: #eee;
+  color: #121212;
+  transition: background 0.3s, color 0.3s;
+}
+
+/* Dark mode overrides */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+body.dark-mode #theme-toggle {
+  background: #333;
+  color: #fff;
+}
+
 .rainbow-text {
   font-weight: bold;
   background: linear-gradient(
@@ -105,3 +133,14 @@ h1 {
 }
 
 </style>
+
+<script>
+const btn = document.getElementById("theme-toggle");
+
+btn.addEventListener("click", () => {
+  document.body.classList.toggle("dark-mode");
+  btn.textContent = document.body.classList.contains("dark-mode")
+    ? "☀️ Light Mode"
+    : "🌙 Dark Mode";
+});
+</script>
