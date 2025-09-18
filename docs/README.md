@@ -8,10 +8,11 @@
 
 <details>
 
-<summary>
-<div class="gif-header" style="text-align:center; color:pink;">
-</div>
+<summary><span style="text-align:center; color:pink;"><img src="[mod-list.gif](https://r73.cooltext.com/rendered/cooltext491676724521703.gif)" alt="Mod List"></span>
+
 </summary>
+
+
 
 <span style="font-weight:light; font-size:.75rem; color:grey;">I have not confirmed each mod is working, let me know if you notice any that are broken</span>
 <br>
@@ -108,13 +109,6 @@ body {
   transition: background-color 0.4s, color 0.4s;
   padding: 1rem;
 }
-
-.gif-header {
-            width: 400px;
-            background-image: url('https://prnt.sc/LGRduxPX5wkY');
-            background-size: cover;
-            text-align: center;
-        }
 
 /* Button styles */
 #theme-toggle {
