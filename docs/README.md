@@ -179,14 +179,11 @@ h1 {
 
 summary {
   text-align: center;
-  color:pink;
   font-size:1.5rem;
-  display: block;
 }
 
 details {
   text-align: center;
-  color:pink;
 }
 
 </style>
