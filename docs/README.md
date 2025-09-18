@@ -7,7 +7,7 @@
 <details>
 <summary>Mod list</summary>
 
-<span style="font-weight:light; font-size:.75rem; color:grey;">I have not confirmed each mod is working, let me know if you notice any that are broken</span>
+*I have not confirmed each mod is working, let me know if you notice any that are broken*
 
 [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments/files/all?page=1&pageSize=20&version=1.21.1)
 [Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)
