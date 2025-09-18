@@ -1,6 +1,6 @@
-<h1> <span class="rainbow-text" style="color:MediumSeaGreen; text-align: center; ">Unreal Dub Engine</span>
+<h1> <span class="rainbow-text" style="color:MediumSeaGreen; text-align: center; ">Unreal Dub Engine</span></h1>
 
-<h1> Minecraft server guide | <span class="rainbow-text"> play.unrealdub.club </span>
+<h1> Minecraft server guide | <span class="rainbow-text"> play.unrealdub.club</span></h1>
 
 ## &#9733; Downloads & Setup
 
@@ -65,6 +65,9 @@ Lets fix that:
 3. Play! If prompted, check the *"I understand..."* box and continue
 4. It will take a long time (3+ minutes) to launch, especially the first time
 5. Some additional windows will likely open, just minimize those and close after playing
+
+<h6> v1.1 </h6>
+
 
 <style>
 .rainbow-text {
