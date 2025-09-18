@@ -1,27 +1,26 @@
 <h1> <span class="rainbow-text" style="color:MediumSeaGreen; text-align:center; font-size:4rem;">Unreal Dub Engine</span></h1>
 
-<h1> Minecraft server guide | <span class="rainbow-text"> play.unrealdub.club</span></h1>
+<h1> Minecraft server guide | <span class="rainbow-text">play.unrealdub.club</span></h1>
 
 <button id="theme-toggle">☀️ Light Mode</button>
 
 <details>
-
 <summary><img src="modlist_title.gif" alt="View mod list" class="title-logo"></summary>
 
 *I have not confirmed each mod is working, let me know if you notice any that are broken* <br>
 
-[Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments/files/all?page=1&pageSize=20&version=1.21.1)<br>
-[Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)<br>
-[Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts/files/all?page=1&pageSize=20&version=1.21.1)<br>
-[Create](https://www.curseforge.com/minecraft/mc-mods/create/files/all?page=1&pageSize=20&version=1.21.1)<br>
-[Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/all?page=1&pageSize=20&version=1.21.1)<br>
-[Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/all?page=1&pageSize=20&version=1.21.1)<br>
-[Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?page=1&pageSize=20&version=1.21.1)<br>
-[Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)<br>
-[Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/all?page=1&pageSize=20&version=1.21.1)<br>
-[Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)<br>
-[Xaeros Mini Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)<br>
-[Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)<br>
+- [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments/files/all?page=1&pageSize=20&version=1.21.1)
+- [Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts/files/all?page=1&pageSize=20&version=1.21.1)
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create/files/all?page=1&pageSize=20&version=1.21.1)
+- [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/all?page=1&pageSize=20&version=1.21.1)
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/all?page=1&pageSize=20&version=1.21.1)
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?page=1&pageSize=20&version=1.21.1)
+- [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/all?page=1&pageSize=20&version=1.21.1)
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
+- [Xaeros Mini Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 
 </details>
 
@@ -103,7 +102,7 @@ body {
 
 .title-logo {
   height: 80px;            /
-  background: transparent;
+  background: transparent !important;
   display: inline-block;
 }
 
@@ -157,6 +156,10 @@ body.light-mode #theme-toggle {
   0%   { background-position: 0% 50%; }
   50%  { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
+}
+
+img {
+  background: transparent !important;
 }
 
 h1 {
