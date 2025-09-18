@@ -5,7 +5,8 @@
 <button id="theme-toggle">☀️ Light Mode</button>
 
 <details>
-<summary>Mod list</summary>
+
+<summary><img src="modlist_title.gif" alt="Mod List" class="title-logo"></summary>
 
 *I have not confirmed each mod is working, let me know if you notice any that are broken*
 
@@ -164,6 +165,7 @@ summary {
   text-align: center;
   color:pink;
   font-size:1.5rem;
+  display: block;
 }
 
 details {
