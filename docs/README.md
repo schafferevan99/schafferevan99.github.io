@@ -2,7 +2,7 @@
 
 <h1> Minecraft server guide | <span class="rainbow-text"> play.unrealdub.club</span></h1>
 
-<button id="theme-toggle">🌙 Dark Mode</button>
+<button id="theme-toggle">☀️ Light Mode</button>
 
 ## &#9733; Downloads & Setup
 
@@ -72,6 +72,14 @@ Lets fix that:
 
 
 <style>
+body {
+  background-color: #121212; /* dark by default */
+  color: #e0e0e0;
+  font-family: sans-serif;
+  transition: background-color 0.4s, color 0.4s;
+  padding: 1rem;
+}
+
 /* Button styles */
 #theme-toggle {
   position: fixed;
@@ -82,20 +90,20 @@ Lets fix that:
   border-radius: 8px;
   cursor: pointer;
   font-size: 1rem;
-  background: #eee;
-  color: #121212;
+  background: #333;
+  color: #fff;
   transition: background 0.3s, color 0.3s;
 }
 
-/* Dark mode overrides */
-body.dark-mode {
-  background-color: #121212;
-  color: #e0e0e0;
+/* Light mode overrides */
+body.light-mode {
+  background-color: #ffffff;
+  color: #121212;
 }
 
-body.dark-mode #theme-toggle {
-  background: #333;
-  color: #fff;
+body.light-mode #theme-toggle {
+  background: #eee;
+  color: #121212;
 }
 
 .rainbow-text {
@@ -138,9 +146,9 @@ h1 {
 const btn = document.getElementById("theme-toggle");
 
 btn.addEventListener("click", () => {
-  document.body.classList.toggle("dark-mode");
-  btn.textContent = document.body.classList.contains("dark-mode")
-    ? "☀️ Light Mode"
-    : "🌙 Dark Mode";
+  document.body.classList.toggle("light-mode");
+  btn.textContent = document.body.classList.contains("light-mode")
+    ? "🌙 Dark Mode"
+    : "☀️ Light Mode";
 });
 </script>
