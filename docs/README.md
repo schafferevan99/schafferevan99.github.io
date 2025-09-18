@@ -9,6 +9,8 @@
 
   <summary><img src="modlist_title.gif" alt="View mod list" class="title-logo"></summary>
 
+<div>
+
 - [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments/files/all?page=1&pageSize=20&version=1.21.1)
 - [Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts/files/all?page=1&pageSize=20&version=1.21.1)
@@ -21,6 +23,8 @@
 - [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
 - [Xaeros Mini Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+
+</div>
 
 </details>
 
