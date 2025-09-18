@@ -16,9 +16,6 @@
 
 </summary>
 
-I have not confirmed each mod is working, let me know if you notice any that are broken
-
-
 - [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments/files/all?page=1&pageSize=20&version=1.21.1)
 - [Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts/files/all?page=1&pageSize=20&version=1.21.1)
@@ -31,7 +28,6 @@ I have not confirmed each mod is working, let me know if you notice any that are
 - [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
 - [Xaeros Mini Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
-
 
 </details>
 
