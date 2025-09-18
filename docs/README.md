@@ -4,11 +4,11 @@
 
 <button id="theme-toggle">☀️ Light Mode</button>
 
-<div style="font-weight:bold; font-size:1.5rem; text-align:center; color:Pink;">
+<h3 style="text-align:center; color:Pink;">
 
 <details>
 
-<summary><span style="text-align:center; color:pink;">Mods</span></summary>
+<summary><span style="text-align:center; color:pink;">Mod list</span></summary>
 
 <span style="font-weight:light; font-size:.75rem; color:grey;">I have not confirmed each mod is working, let me know if you notice any that are broken</span>
 <br>
@@ -28,7 +28,7 @@
 
 </details>
 
-</div>
+</h3>
 
 ## &#9733; Downloads & Setup
 
