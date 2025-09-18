@@ -63,14 +63,14 @@ Installing a modpack creates a new minecraft folder, which means your settings w
 Lets fix that:
 
 1. Open your **existing minecraft folder**
-> <span style="color:MediumSeaGreen"> - Open File Explorer</span>
-> <span style="color:MediumSeaGreen"> - In the navigation bar, type `%appdata%` and hit enter</span>
-> <span style="color:MediumSeaGreen"> - Open .minecraft</span>
-2. Find **options.txt**, right click, **copy** (NOT cut!)
-3. Open <span style="color:orange">CurseForge</span>
-4. Right click the modpack under **My Modpacks**
-5. Click **Open folder**
-6. **Paste** the copied file into the folder, and **Replace the file** if prompted
+> - <span style="color:MediumSeaGreen">Open File Explorer</span>
+> - <span style="color:MediumSeaGreen">In the navigation bar, type `%appdata%` and hit enter</span>
+> - <span style="color:MediumSeaGreen">Open .minecraft</span>
+1. Find **options.txt**, right click, **copy** (NOT cut!)
+2. Open <span style="color:orange">CurseForge</span>
+3. Right click the modpack under **My Modpacks**
+4. Click **Open folder**
+5. **Paste** the copied file into the folder, and **Replace the file** if prompted
 
  **Your existing minecraft installations will still have your original settings, don't worry!*
 
