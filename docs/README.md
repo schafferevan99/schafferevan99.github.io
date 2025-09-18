@@ -11,10 +11,11 @@
 <summary><span style="text-align:center; color:pink;">Mod list</span></summary>
 
 <span style="font-weight:light; font-size:.75rem; color:grey;">I have not confirmed each mod is working, let me know if you notice any that are broken</span>
+<br>
 
- [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments/files/all?page=1&pageSize=20&version=1.21.1)<br>
- [Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)<br>
- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts/files/all?page=1&pageSize=20&version=1.21.1)<br>
+[Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments/files/all?page=1&pageSize=20&version=1.21.1)<br>
+[Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)<br>
+[Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts/files/all?page=1&pageSize=20&version=1.21.1)<br>
 [Create](https://www.curseforge.com/minecraft/mc-mods/create/files/all?page=1&pageSize=20&version=1.21.1)<br>
 [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/all?page=1&pageSize=20&version=1.21.1)<br>
 [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/all?page=1&pageSize=20&version=1.21.1)<br>
@@ -24,6 +25,7 @@
 [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)<br>
 [Xaeros Mini Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)<br>
 [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)<br>
+
 </details>
 
 </h3>
