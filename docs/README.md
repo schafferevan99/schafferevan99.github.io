@@ -13,12 +13,20 @@
 
 [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments/files/all?page=1&pageSize=20&version=1.21.1)<br>
 [Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)<br>
+[Cobblemon | All-in-one](https://www.curseforge.com/minecraft/mc-mods/cobblemon-all-in-the-one)<br>
+[Cobblemon | Capture XP](https://www.curseforge.com/minecraft/mc-mods/cobblemon-capture-xp)<br>
+[Cobblemon | Player XP](https://www.curseforge.com/minecraft/mc-mods/cobblemon-playerxp)<br>
+[Cobblemon | Pokenav](https://www.curseforge.com/minecraft/mc-mods/cobblemon-pokenav)<br>
+[Cobblemon | Radical Trainers](https://www.curseforge.com/minecraft/mc-mods/rctmod)<br>
+[Cobblemon | Ride On!](https://www.curseforge.com/minecraft/mc-mods/cobblemon-ride-on)<br>
+[Cobblemon | Spawn Notifications](https://www.curseforge.com/minecraft/mc-mods/cobblemon-spawn-notification)<br>
 [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts/files/all?page=1&pageSize=20&version=1.21.1)<br>
 [Create](https://www.curseforge.com/minecraft/mc-mods/create/files/all?page=1&pageSize=20&version=1.21.1)<br>
 [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/all?page=1&pageSize=20&version=1.21.1)<br>
 [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/all?page=1&pageSize=20&version=1.21.1)<br>
 [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?page=1&pageSize=20&version=1.21.1)<br>
 [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)<br>
+[Portable Crafting Table](https://www.curseforge.com/minecraft/mc-mods/portable-crafting-table)<br>
 [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/all?page=1&pageSize=20&version=1.21.1)<br>
 [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)<br>
 [Xaeros Mini Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)<br>
@@ -56,11 +64,11 @@
 6. Select the downloaded .zip file
 
 
-## &#9733; Recommended | <span style="color:MediumSeaGreen">Restore minecraft settings</span>
+## &#9733; <span style="color:MediumSeaGreen">Recommended</span> | Restore minecraft settings
 
-Installing a modpack creates a new minecraft folder, which means your settings will be reset to default*. This includes video settings, keybinds, and probably some other shi
+Installing a modpack creates a new minecraft folder, which means you will have the default settings*. This includes video settings, keybinds, and probably some other shi
 
-Lets fix that:
+**Lets fix that:**
 
 1. Open your **existing minecraft folder**
 > - <span style="color:MediumSeaGreen">Open File Explorer</span>
@@ -74,7 +82,7 @@ Lets fix that:
 
  **Your existing minecraft installations will still have your original settings, don't worry!*
 
-## &#9733; Recommended | <span style="color:MediumSeaGreen">Increase available RAM</span>
+## &#9733; <span style="color:MediumSeaGreen">Recommended</span> | Increase available RAM
 
 1. In <span style="color:orange">CurseForge</span>, click the **settings** icon in the bottom left
 2. Under Game Specific on the left, click **Minecraft**
